@@ -1,5 +1,6 @@
 <?php
-	error_reporting(E_ERROR | E_WARNING | E_PARSE);
+	// error_reporting(E_ERROR | E_WARNING | E_PARSE);
+
 	$currDir = dirname(__FILE__);
 	include("{$currDir}/defaultLang.php");
 	include("{$currDir}/language.php");

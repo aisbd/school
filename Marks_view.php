@@ -3,6 +3,7 @@
 // Download AppGini for free from https://bigprof.com/appgini/download/
 
 	$currDir=dirname(__FILE__);
+	die("dfdfs");
 	include("$currDir/defaultLang.php");
 	include("$currDir/language.php");
 	include("$currDir/lib.php");
